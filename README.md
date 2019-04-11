@@ -24,7 +24,7 @@
   
 ## 3. Compiling
 
-  The project use [http://camek.org](CMake), with **CMake** installed in your machine, use `cmake` into project folder, so use `make` to create executable file.
+  The project use [CMake](http://cmake.org), with **CMake** installed in your machine, use `cmake` into project folder, so use `make` to create executable file.
   
 ## 4. Using
 
@@ -38,7 +38,7 @@
   
 ## 5. Author
 
-  The project was created by Victor Raphaell Vieira Rodrigues, I.T. student from **Universidade Federal do Rio Grande do Norte - (http://ufrn.br)[UFRN]** at **Instituto Metrópole Digital - (http://imd.ufrn.br)[IMD]**.
+  The project was created by Victor Raphaell Vieira Rodrigues, I.T. student from **Universidade Federal do Rio Grande do Norte - [UFRN](http://ufrn.br) at Instituto Metrópole Digital - [IMD](http://imd.ufrn.br).**
   
-  Follow me on (instagram.com/victorvieirar)[instagram]. 
+  Follow me on [instagram](http://instagram.com/victorvieirar). 
   Email me at < _victor@agenciaatwork.com_ > 🤩
