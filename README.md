@@ -8,7 +8,7 @@
 
 ## 2. The Algorithms
 
-  The list is solving yet, but you can find the following solutions bellow:
+  The list is solving yet, but you can find the following solutions below:
 
 **- Cannonball**:
   The **Cannonball** algorithm calculates the total number of stacked cannonballs. They are stacked in square-shaped pyramid, like this:
@@ -18,7 +18,7 @@
                  o o o
                 o o o o 
                 
-  That is, the top ball it's above a square base (let's call the base as layer), the bellow layer is composed by the power of 2 in layer level (e.g. level 2 layer has 2<sup>2</sup> balls, that is 4 balls).
+  That is, the top ball it's above a square base (let's call the base as layer), the below layer is composed by the power of 2 in layer level (e.g. level 2 layer has 2<sup>2</sup> balls, that is 4 balls).
   
   The recursive solution is calculate the number of balls from the actual layer and sum with all others balls calling the function again until the level layer is 1, so the algorithm return the sum added 1.
   
