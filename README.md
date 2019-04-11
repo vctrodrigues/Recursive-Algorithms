@@ -3,9 +3,13 @@
 # Summary
 
 **[1. What's this?](#1-whats-this)**
+
 **[2. The Algorithms](#2-the-algorithms)**
+
 **[3. Compiling](#3-compiling)**
+
 **[4. Using](#4-using)**
+
 **[5. Author](#5-author)**
 
 ## 1. What's this?
@@ -36,10 +40,13 @@
 
   The project has been constructed for execute many algorithms same time.
   > You may use `--help` command line for understand better the use
+
   To use the algorithms you must type:
+
   `--algoption <algorithm_name> [parameters...]`
   
   - For **Cannonball** use:
+
   `--algoption cb [height]`
   
 ## 5. Author
@@ -47,4 +54,5 @@
   The project was created by Victor Raphaell Vieira Rodrigues, I.T. student from **Universidade Federal do Rio Grande do Norte - [UFRN](http://ufrn.br) at Instituto Metrópole Digital - [IMD](http://imd.ufrn.br).**
   
   Follow me on [instagram](http://instagram.com/victorvieirar). 
+
   Email me at < _victor@agenciaatwork.com_ > 🤩
