@@ -1,6 +1,6 @@
 # Recursive Algorithms
 
-# Summary
+## Summary
 
 **[1. What's this?](#1-whats-this)**
 
