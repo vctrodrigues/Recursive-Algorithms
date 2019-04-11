@@ -26,6 +26,7 @@ int main(int argc, char *argv[]) {
                     v::display_result(1, cannonballs);
 
                     if(argc >= i+4) i += 2;
+                    else i++;
                 } else {
                     v::display_error(1);
                 }
