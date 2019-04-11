@@ -28,7 +28,7 @@
   
 ## 4. Using
 
-  The project has been constructed for execute many algorithms once a time.
+  The project has been constructed for execute many algorithms same time.
   > You may use `--help` command line for understand better the use
   To use the algorithms you must type:
   `--algoption <algorithm_name> [parameters...]`
