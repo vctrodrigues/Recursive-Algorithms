@@ -67,6 +67,14 @@ To use the algorithms you must type:
 
 `--algoption cb [height]`
 
+- For **Power** use:
+
+`--algoption power [n] [k]`
+
+- For **Digit Sum** use:
+
+`--algoption ds [n]`
+
 ## 5. Author
 
 The project was created by Victor Raphaell Vieira Rodrigues, I.T. student from **Universidade Federal do Rio Grande do Norte - [UFRN](http://ufrn.br) at Instituto Metrópole Digital - [IMD](http://imd.ufrn.br).**
