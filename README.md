@@ -20,7 +20,7 @@ This repository is a collection of recursive solutions for general problems crea
 
 The list is solving yet, but you can find the following solutions below:
 
-**- Cannonball**:
+### **- Cannonball**:
 
 The **Cannonball** algorithm calculates the total number of stacked cannonballs. They are stacked in square-shaped pyramid, like this:
 
@@ -33,7 +33,7 @@ That is, the top ball it's above a square base (let's call the base as layer), t
 
 The recursive solution is calculate the number of balls from the actual layer and sum with all others balls calling the function again until the level layer is 1, so the algorithm return the sum added 1.
 
-**- Power**:
+### **- Power**:
 
 The **Power** algorithm calculates n<sup>k</sup> with, obviously, recursive solution.
 
@@ -45,7 +45,7 @@ The solution verify three cases:
 
 So, the function is called until K = 1 is `true`, in other words, while _case III_ is true until it's be `false` and _case II_ be `true` or if _case I_ be `true`.
 
-**- Digit Sum**:
+### **- Digit Sum**:
 
 The **Digit Sum** algorithm takes a nonnegative integer and returns the sum of its digits.
 
