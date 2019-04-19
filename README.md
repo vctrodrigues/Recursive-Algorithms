@@ -51,6 +51,9 @@ The **Digit Sum** algorithm takes a nonnegative integer and returns the sum of i
 
 (e.g. `digitSum(32)` should return _3 + 2_, which is _5_.)
 
+The recursive solution is transform the number into a `string` and separate the _last character_ to the `rest of the "word"`.
+So, it takes the sum between the _last character_ (which is converted into a number again) and `digitSum(rest)`.
+
 ## 3. Compiling
 
 The project use [CMake](http://cmake.org), with **CMake** installed in your machine, use `cmake` into project folder, so use `make` to create executable file.
