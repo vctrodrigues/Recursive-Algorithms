@@ -1,8 +1,9 @@
 /.vscode
 /CMakeFiles
+*/.DS_Store
 .DS_Store
 CMakeLists.txt
 CMakeCache.txt
 cmake_install.cmake
 Makefile
-RecursivelyAlgorithm
+RecursiveAlgorithms
